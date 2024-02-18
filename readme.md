@@ -1,4 +1,4 @@
-This is the first lab of Comp3111
+This is the 1st lab of Comp3111
 
 1. I have learnt the way to build a Java Project in intelliJ
 2. I have successfully created my first GitHub to share project source with others
